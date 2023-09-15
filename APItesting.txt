@@ -1,0 +1,2 @@
+API Endpoint = "http://localhost:8000" Or IP address of AWS server where backend is deployed 
+
